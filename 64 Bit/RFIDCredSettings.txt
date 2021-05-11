@@ -1,0 +1,3 @@
+COM=6
+LEAD=ID:
+TERM=\r\n
